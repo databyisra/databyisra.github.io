@@ -1,3 +1,8 @@
-# Welcome to My GitHub Pages Site
+---
+layout: default
+title: Welcome
+---
 
-This is the personal website for databyisra.
+# Hello world
+
+This is your GitHub Pages site.
