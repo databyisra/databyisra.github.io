@@ -1,6 +1,6 @@
 # Welcome to My Data Analytics Portfolio
 
-Hello, I'm [Your Name]. I am working on my Data Analytics certification, and here are some of my projects.
+Hello, I'm Isra. I am working on my Data Analytics certification, and here are some of my projects.
 
 ## Project 1: Data Analysis of XYZ
 A brief description of the project.
